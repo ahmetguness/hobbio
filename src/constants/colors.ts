@@ -22,4 +22,11 @@ export const COLORS: ColorPalette = {
 
   border: "#E0E0E0",
   shadow: "#D1D1D1",
+
+  primaryX: "#6C63FF",
+  secondaryX: "#3F3D56",
+  white: "#FFFFFF",
+  text: "#333333",
+  borderX: "#CCCCCC",
+  inputBackground: "#F5F5F5",
 };

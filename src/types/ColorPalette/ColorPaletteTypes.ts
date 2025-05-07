@@ -20,4 +20,10 @@ export interface ColorPalette {
 
   border: string;
   shadow: string;
+  primaryX: string
+  secondaryX: string;
+  white: string;
+  text: string;
+  borderX: string;
+  inputBackground: string;
 }
